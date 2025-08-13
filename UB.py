@@ -5,7 +5,7 @@ import os
 
 os.system("bash fx.sh")
 print ("WELCOME ANONYMOUS SAVE YOUR TARGET !")
-EMAIL = "dyrothmvp98@gmail.com"
+EMAIL = "dyrothmvp96@gmail.com"
 PASSWORD = "‎wdix mqoo kvbf ebbb"
 TO_EMAIL = "support@support.whatsapp.com"
 
